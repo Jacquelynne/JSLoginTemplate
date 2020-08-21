@@ -1,0 +1,62 @@
+body {
+    font-family: lato;
+}
+
+#divRegistered{
+    height: 100px;
+    width: 600px;
+    background-color: tan;
+    color: black;
+    font-size: 20px;
+    font-family: lato;
+    display: none;
+}
+
+#happyface {
+    margin-top: 15px;
+    display: block;
+}
+
+
+tr{
+    height: 40px;
+}
+.container {
+    background-color: #222;
+    color: #fff;
+    margin: 20px auto;
+    overflow: hidden;
+    padding: 20px;
+    padding-right: 20px;
+    position: relative;
+    width: 600px;
+}
+form {
+    background-color: #555;
+    display: block;
+    padding: 15px;
+}
+
+span {
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 3px;
+}
+
+#txtScroll {
+    display: none;
+    padding-left: 20px;
+    color: lightgoldenrodyellow;
+}
+
+#spnPasswordComplexity {
+    color: lightgoldenrodyellow;
+    display: block;
+    padding-left: 0px;
+    overflow: auto;
+}
+
+#verify {
+    display: none;
+    color: lightgoldenrodyellow;
+}
